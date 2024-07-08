@@ -2,6 +2,7 @@
   "hidden": true,
   "hiddenList": [
     "Bin",
-    "assets"
+    "assets",
+    "README.md"
   ]
 }
