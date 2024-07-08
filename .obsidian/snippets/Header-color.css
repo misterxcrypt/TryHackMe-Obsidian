@@ -1,0 +1,37 @@
+/*** HEADING COLORS ***/
+.markdown-preview-view h1,
+.cm-header-1
+{
+  color: LightSkyBlue;
+}
+
+.markdown-preview-view h2,
+.cm-header-2
+{
+  color: violet;
+}
+
+.markdown-preview-view h3,
+.cm-header-3
+{
+  color: tomato;
+}
+
+.markdown-preview-view h4,
+.cm-header-4
+{
+  color: PaleGreen;
+}
+
+.markdown-preview-view h5,
+.cm-header-5
+{
+  color: Aquamarine;
+}
+
+.markdown-preview-view h6,
+.cm-header-6
+{
+  color: GoldenRod;
+}
+
