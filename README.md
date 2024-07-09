@@ -1,5 +1,13 @@
-Clone this REPO
-Move .obsidian folder to the root of your obsidian Vault.
-If you already have .obsidian, copy the contents of .obsidian into your own .obsidian.
-Change your obsidian setting 'Default location for new attachments' > 'in the folder specified below'
-Type in 'assets' in the below dialog box.
+# TryHackMe Obsidian Notes
+
+### Usage:
+
+1. Clone this Repository.
+2. Make this as a separate vault in your Obsidian.
+3. Enable all the plugins & snippets to get a better experience (Recommended).
+4. Change your obsidian setting 'Default location for new attachments' > 'in the folder specified below'.
+5. Type in 'assets' in the below dialog box.
+
+#### Thank You for using my Notes!
+
+

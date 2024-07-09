@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a65734029d803001",
+        "id": "b9cbb73bd21bf74a",
         "type": "tabs",
         "children": [
           {
-            "id": "07be956ba0307006",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SOC level 1/1 Cyber Threat Intelligence/1 Threat Intelligence Tools/0 urlscan.io.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d8a410d0cbab2070",
+            "id": "4b603d6387064350",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,8 +150,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d8a410d0cbab2070",
+  "active": "4b603d6387064350",
   "lastOpenFiles": [
+    "README.md",
+    "SOC level 1/1 Cyber Threat Intelligence/1 Threat Intelligence Tools/0 urlscan.io.md",
     "SOC level 1/1 Cyber Threat Intelligence/1 Threat Intelligence Tools/2 PhishTool.md",
     "SOC level 1/1 Cyber Threat Intelligence/1 Threat Intelligence Tools/1 abuse.ch.md",
     "SOC level 1/0 Cyber Defence Frameworks/1 Pyramid of Pain/5 Tools (Challenging).md",
@@ -189,9 +178,7 @@
     "SOC level 1/1 Cyber Threat Intelligence/0 Intro to Cyber Threat Intel/0 Intro to CTI.md",
     "SOC level 1/1 Cyber Threat Intelligence/0 Intro to Cyber Threat Intel/1 CTI Lifecycle.md",
     "SOC level 1/1 Cyber Threat Intelligence/0 Intro to Cyber Threat Intel/2 CTI Standards & Frameworks.md",
-    "SOC level 1/1 Cyber Threat Intelligence/1 Threat Intelligence Tools/0 urlscan.io.md",
     "3",
-    "SOC level 1/1 Cyber Threat Intelligence/1 Threat Intelligence Tools",
-    "SOC level 1/1 Cyber Threat Intelligence/1 Threat Intelligence Tools.md"
+    "SOC level 1/1 Cyber Threat Intelligence/1 Threat Intelligence Tools"
   ]
 }
