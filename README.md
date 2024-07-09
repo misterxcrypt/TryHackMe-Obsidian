@@ -8,6 +8,4 @@
 4. Change your obsidian setting 'Default location for new attachments' > 'in the folder specified below'.
 5. Type in 'assets' in the below dialog box.
 
-#### Thank You for using my Notes!
-
-
+## Thank You for using my Notes! 
