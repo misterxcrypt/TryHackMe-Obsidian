@@ -1,0 +1,81 @@
+
+/* Increase space in editing mode*/
+div.view-content
+{
+	margin-top: 35px !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-line {
+    caret-color: var(--text-accent)!important;
+}
+
+/*
+div.inline-title
+{
+	margin-top: 0px !important;
+}
+
+div.workspace-tab-header-spacer
+{
+	margin: 100px !important;
+}
+
+
+
+div.cm-content
+{
+padding-top: 0px !important;
+}
+
+div.cm-line
+{
+margin-left: 0px !important;
+}
+
+
+div.markdown-preview-sizer.markdown-preview-section
+{
+padding-top: 20px !important;
+}
+
+a.zoom-plugin-title
+{
+color: #e0e0e0;
+}
+
+span.zoom-plugin-delimiter
+{
+color: #e0e0e0;
+}
+
+div.HyperMD-header.HyperMD-header-1.cm-line
+{
+  padding-bottom: 15px !important;
+}
+
+h1.cm-line.embedded-note-title.embedded-note-title__edit
+{
+  padding-top: 50px !important;
+  font-weight: 500 !important;
+}
+h1.embedded-note-title.embedded-note-title__preview
+{
+  padding-top: 50px !important;
+}
+span.cm-highlight.cm-list-3
+{
+  background-color: rgb(240 240 20 / 30%) !important;
+}
+
+
+div.markdown-preview-sizer.markdown-preview-section
+{
+  margin-top: -60px !important;
+}
+
+
+div.view-header-title
+{
+  font-weight: 500;
+  color: #B6B6B6 !important;
+}
