@@ -9,5 +9,23 @@
     }
   ],
   "file-explorer:new-file-in-new-pane": [],
-  "workspace:close": []
+  "workspace:close": [],
+  "colored-text:color-text": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "colored-text:remove-color": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ]
 }
