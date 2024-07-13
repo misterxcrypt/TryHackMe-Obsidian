@@ -27,6 +27,20 @@
         "a": 1,
         "rgb": 1253863
       }
+    },
+    {
+      "query": "tag:#note",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "tag:#quote  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
     }
   ],
   "collapse-display": true,
@@ -40,5 +54,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.4444444444444444,
-  "close": true
+  "close": false
 }

@@ -14,7 +14,7 @@ Security operations teams are charged with monitoring and protecting many assets
 
 <span style="color:rgb(146, 208, 80)">Monitoring:</span> Uses [SIEM](https://www.fireeye.com/products/helix/what-is-siem-and-how-does-it-work.html) (Security Information & Event Management) & [EDR](https://www.mcafee.com/enterprise/en-us/security-awareness/endpoint/what-is-endpoint-detection-and-response.html) (Endpoint Detection & Response) tools to monitor malicious and suspicious network activities. 
 
-> [!note]
+> [!note] Note #note 
 > As a Security Analyst, you will learn how to prioritise the alerts based on their level: Low, Medium, High, and Critical. Start from the highest level (Critical) and work towards the bottom - Low-level alert. Having properly configured security monitoring tools in place will give you the best chance to mitigate the threat.
 
 <span style="color:rgb(146, 208, 80)">Response:</span> After the investigation, the SOC team coordinates and takes action on the compromised hosts, which involves isolating the hosts from the network, terminating the malicious processes, deleting files and more.

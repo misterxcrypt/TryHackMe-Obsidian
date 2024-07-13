@@ -2,7 +2,7 @@
 
 The **Pyramid of Pain** is a concept created by David Bianco to describe the difficulty and impact of using different types of indicators to detect and respond to cyber threats. The pyramid is divided into six levels, each representing a different type of indicator, from the easiest to the most challenging to obtain and use effectively. Understanding these levels helps analysts prioritize their efforts and improve their detection and response strategies.
 
-> [!quotation] David Blanco states, "_**the amount of pain you cause an adversary depends on the types of indicators you are able to make use of**_".
+> [!quotation] David Blanco states, "_**the amount of pain you cause an adversary depends on the types of indicators you are able to make use of**_". #quote 
 
 ## Levels of the Pyramid:
 

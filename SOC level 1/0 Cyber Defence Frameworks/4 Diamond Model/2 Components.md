@@ -10,6 +10,6 @@ The scenario can be that the victim provides a “product”, for example, compu
 
 **Technology** – the technology meta-feature or component highlights the ==relationship between the core features: capability and infrastructure.== The capability and infrastructure describe how the adversary operates and communicates. A scenario can be a [[3 Delivery|water hole attack]] which is a methodology where the adversary compromises legitimate websites that they believe their targeted victims will visit.
 
-> [!NOTE] Example Diamond Model: 
+> [!NOTE] Example Diamond Model: #note 
 > [[E-ISAC_SANS_Ukraine_DUC_5.pdf|Analysis of the Cyber Attack on the Ukrainian Power Grid]]
 

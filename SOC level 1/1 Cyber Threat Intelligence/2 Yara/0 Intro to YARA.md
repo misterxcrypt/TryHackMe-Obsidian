@@ -20,7 +20,7 @@ Using a Yara rule is simple. Every `yara` command requires two arguments to be v
 2. Name of file, directory, or process ID to use the rule for. (somedirectory)
 Ex: yara myrule.yar somedirectory
 
-> [!note] Every rule must have a name and condition.
+> [!note] Every rule must have a name and condition. #note 
 
 ### STEPS
 
