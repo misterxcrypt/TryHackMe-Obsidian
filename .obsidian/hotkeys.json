@@ -27,5 +27,13 @@
       ],
       "key": "R"
     }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
+    }
   ]
 }

@@ -4,6 +4,8 @@ Cyber Threat Intelligence (CTI) can be defined as evidence-based knowledge about
 
 As security analysts, CTI is vital for investigating and reporting against adversary attacks with organisational stakeholders and external communities.
 
+Cyber Threat Intelligence is typically a managerial mystery to handle, with organisations battling with how to input, digest, analyse and present threat data in a way that will make sense. So Platforms like [[OpenCTI]] comes into play to aid in manage CTI through storage, analysis, visualisation and presentation of malware, IOCs, threat campaigns.
+
 ## Cyber Threat Intelligence Module
 
 - [Threat Intelligence Tools](https://tryhackme.com/room/threatinteltools)
