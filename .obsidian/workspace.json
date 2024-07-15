@@ -114,9 +114,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7ae9de7667fe48ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC level 1/1 Cyber Threat Intelligence/4 MISP/0 MISP Intro & features.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "721fd4788b692453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC level 1/1 Cyber Threat Intelligence/4 MISP/1 Event Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cf90f9b2823e048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC level 1/1 Cyber Threat Intelligence/4 MISP/2 Feeds & Taxonomies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -182,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOC level 1/1 Cyber Threat Intelligence/3 OpenCTI/1 OpenCTI Dashboard.md",
+                "file": "SOC level 1/1 Cyber Threat Intelligence/4 MISP/2 Feeds & Taxonomies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOC level 1/1 Cyber Threat Intelligence/3 OpenCTI/1 OpenCTI Dashboard.md",
+                "file": "SOC level 1/1 Cyber Threat Intelligence/4 MISP/2 Feeds & Taxonomies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOC level 1/1 Cyber Threat Intelligence/3 OpenCTI/1 OpenCTI Dashboard.md"
+                "file": "SOC level 1/1 Cyber Threat Intelligence/4 MISP/2 Feeds & Taxonomies.md"
               }
             }
           }
@@ -247,8 +283,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ba6fda1dcbaf104",
+  "active": "7cf90f9b2823e048",
   "lastOpenFiles": [
+    "assets/Pasted image 20240715185451.png",
+    "assets/Pasted image 20240715185417.png",
+    "SOC level 1/1 Cyber Threat Intelligence/4 MISP/0 MISP Intro & features.md",
+    "SOC level 1/1 Cyber Threat Intelligence/4 MISP/2 Feeds & Taxonomies.md",
+    "SOC level 1/1 Cyber Threat Intelligence/4 MISP/1 Event Management.md",
+    "SOC level 1/1 Cyber Threat Intelligence/1 Threat Intelligence Tools/2 PhishTool.md",
     "SOC level 1/1 Cyber Threat Intelligence/4 MISP",
     "assets/Pasted image 20240714190758.png",
     "SOC level 1/1 Cyber Threat Intelligence/3 OpenCTI/0 OpenCTI & Data Model.md",
@@ -274,10 +316,6 @@
     "SOC level 1/0 Cyber Defence Frameworks/2 Cyber Kill Chain/7 Action on Objectives.md",
     "SOC level 1/0 Cyber Defence Frameworks/2 Cyber Kill Chain/6 Command & Control.md",
     "SOC level 1/0 Cyber Defence Frameworks/2 Cyber Kill Chain/5 Installation.md",
-    "SOC level 1/0 Cyber Defence Frameworks/2 Cyber Kill Chain/4 Exploitation.md",
-    "SOC level 1/0 Cyber Defence Frameworks/2 Cyber Kill Chain/3 Delivery.md",
-    "SOC level 1/0 Cyber Defence Frameworks/2 Cyber Kill Chain/2 Weaponization.md",
-    "SOC level 1/0 Cyber Defence Frameworks/2 Cyber Kill Chain/1 Reconnaissance.md",
     "assets/Pasted image 20240714005832.png",
     "assets/Pasted image 20240714002335.png",
     "assets/Pasted image 20240711000644.png",
