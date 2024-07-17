@@ -4,7 +4,7 @@
 
 The threat information can be distributed and consumed by Network Intrusion Detection Systems (NIDS), log analysis tools and Security Information and Event Management Systems (SIEM).
 
-<span style="color:rgb(221, 85, 85)">MISP Feeds provide a way to:</span>
+==[[2 Feeds & Taxonomies|MISP Feeds]] provide a way to:==
 
 - Exchange threat information.
 - Preview events along with associated attributes and objects.
@@ -22,12 +22,12 @@ MISP provides the following core functionalities:
 
 ## MISP Terms
 
-- **Events:** Collection of contextually linked information.
+- **[[1 Event Management|Event]]:** Collection of contextually linked information.
 - **Attributes:** Individual data points associated with an event, such as network or system indicators.
 - **Objects:** Custom attribute compositions.
 - **Object References:** Relationships between different objects.
 - **Sightings:** Time-specific occurrences of a given data point or attribute detected to provide more credibility.
 - **Tags:** Labels attached to events/attributes.
-- **Taxonomies:** Classification libraries are used to tag, classify and organise information.
+- **[[2 Feeds & Taxonomies|Taxonomies]]:** Classification libraries are used to tag, classify and organise information.
 - **Galaxies:** Knowledge base items used to label events/attributes.
 - **Indicators:** Pieces of information that can detect suspicious or malicious cyber activity.

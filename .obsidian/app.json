@@ -1,4 +1,6 @@
 {
   "showInlineTitle": false,
-  "attachmentFolderPath": "assets"
+  "attachmentFolderPath": "assets",
+  "useTab": true,
+  "showIndentGuide": false
 }

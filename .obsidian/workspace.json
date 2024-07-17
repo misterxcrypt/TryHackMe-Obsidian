@@ -150,9 +150,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9364b8ceaa52e9b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/0 Network Security & Network Data.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1338931b6eb9b973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/1 Traffic Analysis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -166,7 +190,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ba6fda1dcbaf104",
+            "id": "f26a380b3c9a7de4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -202,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 317.5
   },
   "right": {
     "id": "36cd25c1e6332f1b",
@@ -218,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOC level 1/1 Cyber Threat Intelligence/4 MISP/2 Feeds & Taxonomies.md",
+                "file": "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/1 Traffic Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOC level 1/1 Cyber Threat Intelligence/4 MISP/2 Feeds & Taxonomies.md",
+                "file": "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/1 Traffic Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SOC level 1/1 Cyber Threat Intelligence/4 MISP/2 Feeds & Taxonomies.md"
+                "file": "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/1 Traffic Analysis.md"
               }
             }
           }
@@ -283,18 +307,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7cf90f9b2823e048",
+  "active": "f26a380b3c9a7de4",
   "lastOpenFiles": [
-    "assets/Pasted image 20240715185451.png",
-    "assets/Pasted image 20240715185417.png",
-    "SOC level 1/1 Cyber Threat Intelligence/4 MISP/0 MISP Intro & features.md",
-    "SOC level 1/1 Cyber Threat Intelligence/4 MISP/2 Feeds & Taxonomies.md",
-    "SOC level 1/1 Cyber Threat Intelligence/4 MISP/1 Event Management.md",
+    "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/0 Network Security & Network Data.md",
+    "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/1 Traffic Analysis.md",
+    "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/Untitled Diagram.svg",
+    "Untitled Diagram.svg",
     "SOC level 1/1 Cyber Threat Intelligence/1 Threat Intelligence Tools/2 PhishTool.md",
-    "SOC level 1/1 Cyber Threat Intelligence/4 MISP",
-    "assets/Pasted image 20240714190758.png",
+    "SOC level 1/1 Cyber Threat Intelligence/4 MISP/2 Feeds & Taxonomies.md",
+    "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis",
+    "SOC level 1/2 Network Security and Traffic Analysis",
+    "README.md",
+    "SOC level 1/0 Cyber Defence Frameworks/0 Junior Security Analyst intro/1 SOC.md",
     "SOC level 1/1 Cyber Threat Intelligence/3 OpenCTI/0 OpenCTI & Data Model.md",
     "SOC level 1/1 Cyber Threat Intelligence/3 OpenCTI/1 OpenCTI Dashboard.md",
+    "SOC level 1/1 Cyber Threat Intelligence/4 MISP/0 MISP Intro & features.md",
+    "assets/Pasted image 20240715185451.png",
+    "assets/Pasted image 20240715185417.png",
+    "SOC level 1/1 Cyber Threat Intelligence/4 MISP/1 Event Management.md",
+    "SOC level 1/1 Cyber Threat Intelligence/4 MISP",
+    "assets/Pasted image 20240714190758.png",
     "assets/Pasted image 20240714100731.png",
     "SOC level 1/1 Cyber Threat Intelligence/0 Intro to Cyber Threat Intel/2 CTI Standards & Frameworks.md",
     "SOC level 1/1 Cyber Threat Intelligence/0 Intro to Cyber Threat Intel/0 Intro to CTI.md",
@@ -312,17 +344,10 @@
     "SOC level 1/0 Cyber Defence Frameworks/3 Unified Kill Chain/3 Phase Out.md",
     "SOC level 1/0 Cyber Defence Frameworks/3 Unified Kill Chain/2 Phase Through.md",
     "SOC level 1/0 Cyber Defence Frameworks/3 Unified Kill Chain/1 Phase In.md",
-    "SOC level 1/0 Cyber Defence Frameworks/3 Unified Kill Chain/0 Intro & Threat Modelling.md",
-    "SOC level 1/0 Cyber Defence Frameworks/2 Cyber Kill Chain/7 Action on Objectives.md",
-    "SOC level 1/0 Cyber Defence Frameworks/2 Cyber Kill Chain/6 Command & Control.md",
-    "SOC level 1/0 Cyber Defence Frameworks/2 Cyber Kill Chain/5 Installation.md",
     "assets/Pasted image 20240714005832.png",
     "assets/Pasted image 20240714002335.png",
     "assets/Pasted image 20240711000644.png",
     "assets/Anatomyofyararule.png",
-    "assets/Pasted image 20240711000548.png",
-    "assets/Pasted image 20240710234710.png",
-    "assets/Pasted image 20240710232534.png",
     "SOC level 1/1 Cyber Threat Intelligence/2 Yara",
     "3",
     "SOC level 1/1 Cyber Threat Intelligence/1 Threat Intelligence Tools"
