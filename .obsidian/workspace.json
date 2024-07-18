@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/0 Network Security & Network Data.md",
+                "file": "SOC level 1/2 Network Security and Traffic Analysis/0 Traffic Analysis/0 Network Security & Network Data.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,14 +169,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/1 Traffic Analysis.md",
+                "file": "SOC level 1/2 Network Security and Traffic Analysis/0 Traffic Analysis/1 Traffic Analysis.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "570aed11331356e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -242,7 +250,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/1 Traffic Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +266,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/1 Traffic Analysis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,9 +287,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/1 Traffic Analysis.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -307,15 +311,18 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f26a380b3c9a7de4",
+  "active": "570aed11331356e7",
   "lastOpenFiles": [
-    "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/0 Network Security & Network Data.md",
-    "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/1 Traffic Analysis.md",
+    "SOC level 1/2 Network Security and Traffic Analysis/1 Snort/0 Snort & IDS-IPS.md",
+    "SOC level 1/0 Cyber Defence Frameworks/1 Pyramid of Pain/0 What is Pyramid of Pain.md",
+    "SOC level 1/2 Network Security and Traffic Analysis/0 Traffic Analysis/1 Traffic Analysis.md",
+    "SOC level 1/2 Network Security and Traffic Analysis/1 Snort",
+    "SOC level 1/1 Cyber Threat Intelligence/1 Threat Intelligence Tools/2 PhishTool.md",
+    "SOC level 1/2 Network Security and Traffic Analysis/0 Traffic Analysis/0 Network Security & Network Data.md",
     "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/Untitled Diagram.svg",
     "Untitled Diagram.svg",
-    "SOC level 1/1 Cyber Threat Intelligence/1 Threat Intelligence Tools/2 PhishTool.md",
     "SOC level 1/1 Cyber Threat Intelligence/4 MISP/2 Feeds & Taxonomies.md",
-    "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis",
+    "SOC level 1/2 Network Security and Traffic Analysis/0 Traffic Analysis",
     "SOC level 1/2 Network Security and Traffic Analysis",
     "README.md",
     "SOC level 1/0 Cyber Defence Frameworks/0 Junior Security Analyst intro/1 SOC.md",
@@ -330,7 +337,6 @@
     "assets/Pasted image 20240714100731.png",
     "SOC level 1/1 Cyber Threat Intelligence/0 Intro to Cyber Threat Intel/2 CTI Standards & Frameworks.md",
     "SOC level 1/1 Cyber Threat Intelligence/0 Intro to Cyber Threat Intel/0 Intro to CTI.md",
-    "SOC level 1/0 Cyber Defence Frameworks/1 Pyramid of Pain/0 What is Pyramid of Pain.md",
     "SOC level 1/1 Cyber Threat Intelligence/3 OpenCTI",
     "SOC level 1/0 Cyber Defence Frameworks/5 MITRE/5 Att&ck Emulation Plans.md",
     "SOC level 1/0 Cyber Defence Frameworks/5 MITRE/4 MITRE Defend.md",
