@@ -179,12 +179,28 @@
             "id": "570aed11331356e7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SOC level 1/2 Network Security and Traffic Analysis/1 Snort/0 Snort & IDS-IPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "949135561c921bf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SOC level 1/2 Network Security and Traffic Analysis/1 Snort/1 Points to Remember.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -250,6 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SOC level 1/2 Network Security and Traffic Analysis/1 Snort/1 Points to Remember.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -266,6 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SOC level 1/2 Network Security and Traffic Analysis/1 Snort/1 Points to Remember.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,7 +305,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SOC level 1/2 Network Security and Traffic Analysis/1 Snort/1 Points to Remember.md"
+              }
             }
           }
         ]
@@ -311,16 +331,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "570aed11331356e7",
+  "active": "949135561c921bf1",
   "lastOpenFiles": [
     "SOC level 1/2 Network Security and Traffic Analysis/1 Snort/0 Snort & IDS-IPS.md",
-    "SOC level 1/0 Cyber Defence Frameworks/1 Pyramid of Pain/0 What is Pyramid of Pain.md",
+    "SOC level 1/2 Network Security and Traffic Analysis/1 Snort/1 Points to Remember.md",
+    "assets/Snort Cheatsheet - TryHackMe.pdf",
+    "assets/Pasted image 20240729232521.png",
+    "assets/Pasted image 20240729232308.png",
+    "assets/Pasted image 20240729230955.png",
+    "assets/Pasted image 20240729230930.png",
+    "assets/Pasted image 20240729230910.png",
+    "assets/Pasted image 20240729225711.png",
+    "assets/Pasted image 20240729224242.png",
+    "assets/Pasted image 20240729223034.png",
+    "assets/Pasted image 20240729220939.png",
+    "assets/Pasted image 20240729211717.png",
     "SOC level 1/2 Network Security and Traffic Analysis/0 Traffic Analysis/1 Traffic Analysis.md",
+    "SOC level 1/2 Network Security and Traffic Analysis/0 Traffic Analysis/0 Network Security & Network Data.md",
+    "SOC level 1/0 Cyber Defence Frameworks/1 Pyramid of Pain/0 What is Pyramid of Pain.md",
     "SOC level 1/2 Network Security and Traffic Analysis/1 Snort",
     "SOC level 1/1 Cyber Threat Intelligence/1 Threat Intelligence Tools/2 PhishTool.md",
-    "SOC level 1/2 Network Security and Traffic Analysis/0 Traffic Analysis/0 Network Security & Network Data.md",
-    "SOC level 1/2 Network Security and Traffic Analysis/Traffic Analysis/Untitled Diagram.svg",
-    "Untitled Diagram.svg",
     "SOC level 1/1 Cyber Threat Intelligence/4 MISP/2 Feeds & Taxonomies.md",
     "SOC level 1/2 Network Security and Traffic Analysis/0 Traffic Analysis",
     "SOC level 1/2 Network Security and Traffic Analysis",
@@ -329,12 +359,8 @@
     "SOC level 1/1 Cyber Threat Intelligence/3 OpenCTI/0 OpenCTI & Data Model.md",
     "SOC level 1/1 Cyber Threat Intelligence/3 OpenCTI/1 OpenCTI Dashboard.md",
     "SOC level 1/1 Cyber Threat Intelligence/4 MISP/0 MISP Intro & features.md",
-    "assets/Pasted image 20240715185451.png",
-    "assets/Pasted image 20240715185417.png",
     "SOC level 1/1 Cyber Threat Intelligence/4 MISP/1 Event Management.md",
     "SOC level 1/1 Cyber Threat Intelligence/4 MISP",
-    "assets/Pasted image 20240714190758.png",
-    "assets/Pasted image 20240714100731.png",
     "SOC level 1/1 Cyber Threat Intelligence/0 Intro to Cyber Threat Intel/2 CTI Standards & Frameworks.md",
     "SOC level 1/1 Cyber Threat Intelligence/0 Intro to Cyber Threat Intel/0 Intro to CTI.md",
     "SOC level 1/1 Cyber Threat Intelligence/3 OpenCTI",
@@ -348,12 +374,6 @@
     "SOC level 1/0 Cyber Defence Frameworks/4 Diamond Model/1 Meta Features.md",
     "SOC level 1/0 Cyber Defence Frameworks/4 Diamond Model/0 The Diamond Model.md",
     "SOC level 1/0 Cyber Defence Frameworks/3 Unified Kill Chain/3 Phase Out.md",
-    "SOC level 1/0 Cyber Defence Frameworks/3 Unified Kill Chain/2 Phase Through.md",
-    "SOC level 1/0 Cyber Defence Frameworks/3 Unified Kill Chain/1 Phase In.md",
-    "assets/Pasted image 20240714005832.png",
-    "assets/Pasted image 20240714002335.png",
-    "assets/Pasted image 20240711000644.png",
-    "assets/Anatomyofyararule.png",
     "SOC level 1/1 Cyber Threat Intelligence/2 Yara",
     "3",
     "SOC level 1/1 Cyber Threat Intelligence/1 Threat Intelligence Tools"
